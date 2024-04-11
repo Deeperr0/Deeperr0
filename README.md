@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**Deeperr0/Deeperr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yousef Attia, a Computer Science student at Warsaw University of Technology. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about creating beautiful and user-friendly web experiences. My goal is to improve my skills and knowledge to build new solutions that make a positive impact.
+
+## Skills
+
+- **Programming Languages:** HTML, CSS, JavaScript, C, C++
+- **Frontend Frameworks & Libraries:** React.js
+- **Database:** MySQL
+- **Tools & Technologies:** Git, VS Code
+
+Feel free to explore my repositories for projects!
+
+## Recent Activity
+
+I'm currently working on enhancing my skills in React.js and mySQL.
+
+## Get in Touch
+
+- LinkedIn: [Yousef Attia](www.linkedin.com/in/yattia)
+
+Let's connect and collaborate on exciting projects together!
+
