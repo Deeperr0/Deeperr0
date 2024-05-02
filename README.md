@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Yousef Attia, a Computer Science student at Warsaw University of Technology. Welcome to my GitHub profile!
+I'm Yousef Attia, a Computer Science student at Warsaw University of Technology. Welcome to my GitHub profile.
 
 ## About Me
 
