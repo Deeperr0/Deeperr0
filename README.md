@@ -44,8 +44,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/yattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yattia" height="30" width="40" /></a>
 </p>
-
----
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymyacoffee.com/Deeperr0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymyacoffee.com/Deeperr0" /></a></p><br><br>
