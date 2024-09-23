@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TaskHive**
 
-- 🌱 I’m currently learning **spring**
+- 🌱 I’m currently learning **spring** and **Node.js**
 
 - 💬 Ask me about **React, SQL and Java**
 
