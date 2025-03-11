@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I’m Yousef Attia</h1>
-<h3 align="center">A Computer Engineering student and aspiring Fullstack Developer passionate about building scalable, user-friendly applications. I love turning ideas into code and solving real-world problems with technology.</h3>
+<h1 align="center">I Write Code That Works (Most of the Time)</h1>
+<h3 align="center">I'm Yousef Attia. A Computer Engineering student and aspiring Full Stack Developer passionate about building scalable, user-friendly applications. I love turning ideas into code and solving real-world problems with technology.</h3>
 
-- 🔭 I’m currently working on **TaskHive**
+- 🔭 I’m currently working on **[TaskHive](https://github.com/Deeperr0/task-hive)** – a team management tool built with React, designed for task tracking and real-time collaboration.
 
-- 🌱 I’m currently learning **spring** and **Node.js**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **React, SQL and Java**
+- 💬 Ask me about **Frontend Performance Optimization, React State Management, API Design, and Database Structuring**.
 
 ---
 
@@ -27,11 +27,10 @@
 
 ---
 
-<foreignObject width="100" height="100">
-    <div align="center" class="flex flex-row">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Deeperr0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="145" alt="languages graph"  />
-       <img src="https://streak-stats.demolab.com?user=Deeperr0&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="145" alt="streak graph"  />
-</foreignObject>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeperr0&layout=compact&theme=radical" height="145" />
+  <img src="https://streak-stats.demolab.com?user=Deeperr0&theme=radical" height="145" />
+</p>
 
 ---
 
