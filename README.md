@@ -1,31 +1,38 @@
-<h1 align="center">I Write Code That Works (Most of the Time)</h1>
-<h3 align="center">I'm Yousef Attia. A Computer Engineering student and aspiring Full Stack Developer passionate about building scalable, user-friendly applications. I love turning ideas into code and solving real-world problems with technology.</h3>
+# 👋 Hi, I'm Yousef Attia
+### Computer Engineering Student | Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on **[TaskHive](https://github.com/Deeperr0/task-hive)** – a team management tool built with React, designed for task tracking and real-time collaboration.
-
-- 🌱 I’m currently learning **Node.js**
-
-- 💬 Ask me about **Frontend Performance Optimization, React State Management, API Design, and Database Structuring**.
+I'm passionate about building scalable, user-friendly web applications and solving real-world problems with technology. As a lifelong learner, I enjoy exploring new tools and turning ideas into working solutions.
 
 ---
 
-<h3 align="center">Skills</h3>
+## 🚀 What I'm Working On
+
+- 🔨 **[TaskHive](https://github.com/Deeperr0/task-hive):** A React-based team management tool for task tracking and real-time collaboration.
+- 🌱 Currently learning **Node.js** to expand my backend development skills.
+- 💡 Interested in **Frontend Performance Optimization**, **React State Management**, **API Design**, and **Database Structuring**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40"/>
 </p>
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeperr0&layout=compact&theme=radical" height="145" />
@@ -34,40 +41,39 @@
 
 ---
 
-<h3 align="left">Get in touch:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yattia" height="30" width="40" /></a>
-</p>
-<p>Feel free to explore my projects below or reach out to collaborate!</p>
+## 💼 Featured Projects
+
+### 🔗 [Pomodoro Timer](https://pomodoro-timer-responsive.netlify.app/)
+A customizable time management app using the Pomodoro technique. Features adjustable timers, a dynamic progress bar, and theme customization.  
+**Tech:** React, JavaScript  
+[GitHub Repo](https://github.com/Deeperr0/pomodoro-timer)
 
 ---
 
-### Projects  
-
-Here are some of the projects I’ve worked on to showcase my skills and experience:  
-
-#### **Pomodoro Timer**  
-A customizable time management app using the Pomodoro technique. Features adjustable timers for work and breaks, a dynamic circular progress bar, and theme customization.  
-**Tech Stack**: React, JavaScript  
-**[Live Demo](https://pomodoro-timer-responsive.netlify.app/)** | **[GitHub Repo](https://github.com/Deeperr0/pomodoro-timer)**  
+### 🛠️ [Task Hive](https://task-hive-three.vercel.app/)
+A team management tool for seamless collaboration, task tracking, and real-time updates.  
+**Tech:** React, JavaScript  
+[GitHub Repo](https://github.com/Deeperr0/task-hive)
 
 ---
 
-#### **Task Hive**  
-A ReactJS-based team management tool for efficient collaboration, task tracking, and real-time updates.  
-**Tech Stack**: React, JavaScript  
-**[Live Demo](https://task-hive-three.vercel.app/)** | **[GitHub Repo](https://github.com/Deeperr0/task-hive)**  
+### ✂️ [Shortify](https://shortifyyy.netlify.app/)
+A link-shortening website with a clean, minimal interface, developed as part of a coding challenge.  
+**Tech:** HTML, CSS, JavaScript  
+[GitHub Repo](https://github.com/Deeperr0/shortify)
 
 ---
 
-#### **Shortify**  
-A simple link-shortening website created based on an existing design. Developed as a coding challenge to implement link shortening functionality with a clean and minimal interface.  
-**Tech Stack**: JavaScript, HTML, CSS  
-**[Live Demo](https://shortifyyy.netlify.app/)** | **[GitHub Repo](https://github.com/Deeperr0/shortify)**  
+### 💰 [TrackMySpend](https://github.com/Deeperr0/TrackMySpend)
+A CLI tool for tracking personal expenses.  
+**Tech:** Java
 
 ---
 
-#### **TrackMySpend**  
-A CLI application developed using Java that helps users track their spending.  
-**Tech Stack**: Java  
-**[GitHub Repo](https://github.com/Deeperr0/TrackMySpend)**  
+## 🤝 Let's Connect
+
+<a href="https://linkedin.com/in/yattia" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<p>I'm always open to new opportunities and collaborations. Feel free to reach out!</p>
