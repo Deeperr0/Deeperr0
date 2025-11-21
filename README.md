@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yousef Attia
-### Computer Engineering Student | Aspiring Full Stack Developer
+### Computer Engineering Student | Full Stack Developer
 
 I'm passionate about building scalable, user-friendly web applications and solving real-world problems with technology. As a lifelong learner, I enjoy exploring new tools and turning ideas into working solutions.
 
