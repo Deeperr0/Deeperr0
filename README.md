@@ -8,7 +8,7 @@ I'm passionate about building scalable, user-friendly web applications and solvi
 ## 🚀 What I'm Working On
 
 - 🔨 **[TaskHive](https://github.com/Deeperr0/task-hive):** A React-based team management tool for task tracking and real-time collaboration.
-- 🌱 Currently learning **Node.js** to expand my backend development skills.
+- 🌱 Currently learning **Node.js** and **Spring Boot** to expand my backend development skills.
 - 💡 Interested in **Frontend Performance Optimization**, **React State Management**, **API Design**, and **Database Structuring**.
 
 ---
