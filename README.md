@@ -1,80 +1,60 @@
-# 👋 Hi, I'm Yousef Attia
-### Computer Engineering Student | Full Stack Developer
+# Hi, I'm Yousef 👋
 
-I'm passionate about building scalable, user-friendly web applications and solving real-world problems with technology. As a lifelong learner, I enjoy exploring new tools and turning ideas into working solutions.
+Computer Engineering student at Warsaw University of Technology. I build things end-to-end — from React UIs to Spring Boot backends with actual tests, security config, and a database that doesn't panic in production.
 
----
-
-## 🚀 What I'm Working On
-
-- 🔨 **[TaskHive](https://github.com/Deeperr0/task-hive):** A React-based team management tool for task tracking and real-time collaboration.
-- 🌱 Currently learning **Node.js** and **Spring Boot** to expand my backend development skills.
-- 💡 Interested in **Frontend Performance Optimization**, **React State Management**, **API Design**, and **Database Structuring**.
+Right now I'm focused on getting better at backend architecture and system design. I tend to learn by shipping: when something interests me, I build it.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## What I've built
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring Boot" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="40"/>
+### [TaskHive](https://github.com/Deeperr0/task-hive) · [Live](https://task-hive-three.vercel.app/)
+Team task management app with real-time collaboration. The interesting parts: dual auth flows (email/password + magic link via Firebase), a Node.js backend handling Firebase Admin SDK credentials and email notifications, and role-based access so admins and members see different things. 178 commits, still being improved.
+
+`React` `Firebase` `Node.js` `Tailwind CSS` `Vercel`
+
+---
+
+### [Personal Blog](https://github.com/Deeperr0/personal-blog)
+A full-stack blog engine I built to get serious about backend fundamentals without hiding behind an ORM. Layered architecture (Controller → Service → DAO), Spring Security with form-based auth, JdbcTemplate over PostgreSQL, and a proper test suite — service layer with Mockito, controllers with `@WebMvcTest`. Dockerized with Docker Compose.
+
+`Spring Boot` `Spring Security` `PostgreSQL` `JdbcTemplate` `JUnit 5` `Docker`
+
+---
+
+### [Pomodoro Timer](https://github.com/Deeperr0/pomodoro-timer) · [Live](https://pomodoro-timer-responsive.netlify.app/)
+Focus timer with custom session lengths, a circular progress bar, and theme switching. Built with React and a state machine approach for the timer logic.
+
+`React` `JavaScript`
+
+---
+
+### [Shortify](https://github.com/Deeperr0/shortify) · [Live](https://shortifyyy.netlify.app/)
+Link shortener with a minimal interface. Built from a design spec as a challenge — focused on clean JS without a framework.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## Stack
+
+**Comfortable with:** React, TypeScript, JavaScript, Java, Spring Boot, Firebase, PostgreSQL, Tailwind CSS, Git
+
+**Working with:** Node.js, Docker, Spring Security, REST API design
+
+---
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeperr0&layout=compact&theme=radical&hide_border=true" height="140" />
+  <img src="https://streak-stats.demolab.com?user=Deeperr0&theme=radical&hide_border=true" height="140" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Get in touch
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deeperr0&layout=compact&theme=radical" height="145" />
-  <img src="https://streak-stats.demolab.com?user=Deeperr0&theme=radical" height="145" />
-</p>
+[LinkedIn](https://linkedin.com/in/yattia) · yousefah921@gmail.com
 
----
-
-## 💼 Featured Projects
-
-### 🔗 [Pomodoro Timer](https://pomodoro-timer-responsive.netlify.app/)
-A customizable time management app using the Pomodoro technique. Features adjustable timers, a dynamic progress bar, and theme customization.  
-**Tech:** React, JavaScript  
-[GitHub Repo](https://github.com/Deeperr0/pomodoro-timer)
-
----
-
-### 🛠️ [Task Hive](https://task-hive-three.vercel.app/)
-A team management tool for seamless collaboration, task tracking, and real-time updates.  
-**Tech:** React, JavaScript  
-[GitHub Repo](https://github.com/Deeperr0/task-hive)
-
----
-
-### ✂️ [Shortify](https://shortifyyy.netlify.app/)
-A link-shortening website with a clean, minimal interface, developed as part of a coding challenge.  
-**Tech:** HTML, CSS, JavaScript  
-[GitHub Repo](https://github.com/Deeperr0/shortify)
-
----
-
-### 💰 [TrackMySpend](https://github.com/Deeperr0/TrackMySpend)
-A CLI tool for tracking personal expenses.  
-**Tech:** Java
-
----
-
-## 🤝 Let's Connect
-
-<a href="https://linkedin.com/in/yattia" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<p>I'm always open to new opportunities and collaborations. Feel free to reach out!</p>
+Open to internships and junior roles — fullstack or backend-focused.
