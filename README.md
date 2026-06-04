@@ -44,4 +44,4 @@ Link shortener with a minimal interface. Built from a design spec as a challenge
 
 [deeperr0.pl](https://deeperr0.pl) · [LinkedIn](https://linkedin.com/in/yattia) · yousefah921@gmail.com
 
-Open to junior roles — fullstack or backend-focused.
+Open to junior roles - fullstack or backend-focused.
