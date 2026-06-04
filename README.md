@@ -6,15 +6,6 @@ Computer Engineering student at Warsaw University of Technology. I mostly work w
 
 ## What I've built
 
-<p align="left">
-  <a href="https://github.com/Deeperr0/task-hive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deeperr0&repo=task-hive&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Deeperr0/personal-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deeperr0&repo=personal-blog&theme=radical&hide_border=true" />
-  </a>
-</p>
-
 ### [TaskHive](https://github.com/Deeperr0/task-hive) · [Live](https://task-hive-three.vercel.app/)
 Team task management app with real-time collaboration. The interesting parts: dual auth flows (email/password + magic link via Firebase), a Node.js backend handling Firebase Admin SDK credentials and email notifications, and role-based access so admins and members see different things. Still being improved.
 
