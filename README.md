@@ -1,7 +1,7 @@
 # Hi, I'm Yousef 👋
 
-Computer Engineering student at Warsaw University of Technology. I mostly work with React on the frontend and Spring Boot on the backend — been focusing more on the backend lately: architecture, security, testing.
----
+Computer Engineering student at Warsaw University of Technology. I mostly work with React on the frontend and Spring Boot on the backend. Though I've been focusing more on the backend lately: architecture, security, testing.
+
 
 ## What I've built
 
@@ -10,21 +10,20 @@ Team task management app with real-time collaboration. The interesting parts: du
 
 `React` `Firebase` `Node.js` `Tailwind CSS` `Vercel`
 
----
+
 
 ### [Personal Blog](https://github.com/Deeperr0/personal-blog)
 A full-stack blog engine I built to get serious about backend fundamentals. Layered architecture (Controller -> Service -> DAO), Spring Security with form-based auth, JdbcTemplate over PostgreSQL, and a proper test suite - service layer with Mockito, controllers with `@WebMvcTest`. Dockerized with Docker Compose.
 
 `Spring Boot` `Spring Security` `PostgreSQL` `JdbcTemplate` `JUnit 5` `Docker`
 
----
+
 
 ### [Pomodoro Timer](https://github.com/Deeperr0/pomodoro-timer) · [Live](https://pomodoro-timer-responsive.netlify.app/)
 Focus timer with custom session lengths, a circular progress bar, and theme switching. Got real feedback from a family member who actually used it for studying and ended up adding features based on what they asked for.
 
 `React` `JavaScript`
 
----
 
 ### [Shortify](https://github.com/Deeperr0/shortify) · [Live](https://shortifyyy.netlify.app/)
 Link shortener with a minimal interface. Built from a design spec as a challenge - focused on clean JS without a framework.
